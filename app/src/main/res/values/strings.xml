@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">farming</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="btn_sign_in_google">Sign in with Google</string>
+    <string name="btn_add_farm">Add Farm</string>
+    <string name="btn_log_irrigation">Log Irrigation</string>
+    <string name="label_forecast_7day">7-Day Weather &amp; ET0 Forecast</string>
+    <string name="label_irrigation_history">Irrigation History</string>
+    <string name="status_irrigate">Irrigate Today</string>
+    <string name="status_irrigate_explanation">Evapotranspiration exceeds rainfall and soil moisture is low.</string>
+    <string name="status_not_needed">Not Needed</string>
+    <string name="status_not_needed_explanation">ET0 minus rainfall is &lt;= 3.0 mm or soil moisture is sufficient.</string>
+</resources>
